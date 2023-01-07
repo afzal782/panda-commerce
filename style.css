@@ -1,3 +1,6 @@
+.container{
+    margin: 100px;
+}
 .orange-bg{
     background-color: blanchedalmond;
 }
@@ -14,4 +17,40 @@
 }
 .price{
     color: #ff136f;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: lightpink;
+}
+.cat3{
+    background-color: blue;
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+}
+#Contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
